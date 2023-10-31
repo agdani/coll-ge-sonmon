@@ -1,0 +1,10 @@
+
+Super-admin account 1
+=> user: john.doe@gmail.com
+=> mdp: johndoe
+=>college sonmom konahiri
+
+Super-admin account 1
+=> user: elric.jeanno@gmail.com
+=> mdp: 123456789
+=>college sonmom soukourougban
